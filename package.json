@@ -1,0 +1,17 @@
+{
+  "name": "currency-rates-api",
+  "version": "1.0.0",
+  "description": "You have been tasked with creating a service integration to a public API and exposing a RESTful endpoint. The endpoint will accept requests and returns a modified response schema from the integrated API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Chibueze Paul (rec9kC8Sr18S6kUzT)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
